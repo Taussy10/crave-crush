@@ -1,0 +1,24 @@
+
+
+//Learn about filter method to understand redux removeCart
+
+1. Setup Router in App.jsx cause we don't have any navigation links in header(Navbar) so no need of Outlet(cause it makes constant comps and Outlet(for changing comps))
+
+2.Pages:
+1.Home: Main page we don't have navingation links inside main page, it's only main page where we see everything 
+2.Sucess: when order sucess it will show sucess
+3. Error: when you visit a page that doesn't exist then this page will render
+
+3.Home Page: we are getting some comps for displaying on Home
+1. Navbar: No Need to say anything
+
+2.Category: Category section such as All Lunch , Breakfast , Dinner , Snacks
+
+3. Foods Comp: contains 2 subComp
+(a)FoodCard.jsx: Made Card
+(b)FoodITems.jsx: put data into card and loop it using map method so that every data can go it's own place
+
+4.Cart: for cart where things can be brought for buyting
+(a) Cart.jsx: overall structure of cart
+(b) CartItem.jsx: Cart one item structure
+
