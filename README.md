@@ -1,4 +1,4 @@
-[Click here to see the site ](https://crave-crush-tausif-razas-projects.vercel.app/)
+[Click here to see the site ](https://crave-crush.vercel.app/)
 
 React.js app
 
