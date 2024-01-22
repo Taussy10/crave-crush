@@ -1,4 +1,4 @@
-{[Click here to see ](https://crave-crush-tausif-razas-projects.vercel.app/)}
+[Click here to see ](https://crave-crush-tausif-razas-projects.vercel.app/)
 
 React.js app
 
